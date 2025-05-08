@@ -7,15 +7,32 @@ package com.mycompany.app;
 
 import static javax.xml.XMLConstants.XML_NS_PREFIX;
 
+import java.util.Vector;
+
 public class Main 
 {
     public static void main( String[] args )
     {
-        System.out.println(" _   _      _ _         __        __         _     _ ");
-        System.out.println("| | | | ___| | | ___    \\ \\      / /__  _ __| | __| |");
-        System.out.println("| |_| |/ _ \\ | |/ _ \\    \\ \\ /\\ / / _ \\| '__| |/ _` |");
-        System.out.println("|  _  |  __/ | | (_) |    \\ V  V / (_) | |  | | (_| |");
-        System.out.println("|_| |_|\\___|_|_|\\___( )    \\_/\\_/ \\___/|_|  |_|\\__,_|");
-        System.out.println("                     |/                               ");
+       System.out.println("hello Munteanu e Cantea!!!");
+
+       Vector<Character> lettere = new Vector<Character>();
+       lettere.add('d');
+       lettere.add('a');
+       lettere.add('n');
+       lettere.add('i');
+       lettere.add('e');
+       lettere.add('l');
+       lettere.add(' ');
+       lettere.add('e');
+       lettere.add(' ');
+       lettere.add('c');
+       lettere.add('a');
+       lettere.add('n');
+       lettere.add('t');
+       lettere.add('e');
+       lettere.add('a');
+       for (int i = 0; i < lettere.size(); i++) {
+           System.out.println(lettere.get(i));
+       }
     }
 }
