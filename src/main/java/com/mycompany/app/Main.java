@@ -1,17 +1,13 @@
-/*-------------------------------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
- *-------------------------------------------------------------------------------------------------------------*/
+public class Main {
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello Munteanu e Cantea !");
 
-package com.mycompany.app;
-
-import static javax.xml.XMLConstants.XML_NS_PREFIX;
-
-public class Main 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello Remote World!" );
-        System.out.println("The XML namespace prefix is: " + XML_NS_PREFIX);
+        char[] lettere = {'d','a','n','i','e','l',' ','e',' ','c','a','n','t','e','a'};
+        for (int i = 0; i < lettere.length; i++) {
+            System.out.println(lettere + "");
+        }
     }
 }
