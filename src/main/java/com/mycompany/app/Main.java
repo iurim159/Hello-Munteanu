@@ -11,7 +11,11 @@ public class Main
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Remote World!" );
-        System.out.println("The XML namespace prefix is: " + XML_NS_PREFIX);
+        System.out.println(" _   _      _ _         __        __         _     _ ");
+        System.out.println("| | | | ___| | | ___    \\ \\      / /__  _ __| | __| |");
+        System.out.println("| |_| |/ _ \\ | |/ _ \\    \\ \\ /\\ / / _ \\| '__| |/ _` |");
+        System.out.println("|  _  |  __/ | | (_) |    \\ V  V / (_) | |  | | (_| |");
+        System.out.println("|_| |_|\\___|_|_|\\___( )    \\_/\\_/ \\___/|_|  |_|\\__,_|");
+        System.out.println("                     |/                               ");
     }
 }
