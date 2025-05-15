@@ -17,5 +17,24 @@ public class Main
         System.out.println("|  _  |  __/ | | (_) |    \\ V  V / (_) | |  | | (_| |");
         System.out.println("|_| |_|\\___|_|_|\\___( )    \\_/\\_/ \\___/|_|  |_|\\__,_|");
         System.out.println("                     |/                               ");
+
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
+        System.out.println("Taglia è stato qui!");
     }
 }
